@@ -1,7 +1,7 @@
 # minutesofmeeting
 
 **Format**
-Note: Filename to be date of meeting in dd-mm-yy format (example "23-06-2023")
+Note: Filename to be date of meeting in dd%month-string%yyyy format (example "23June2023.minutes")
 ```
 Date: [Date]
 Time: [Time]

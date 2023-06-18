@@ -5,7 +5,7 @@ Venue: Online
 KEY POINTS
 
 14:16
-New Approach using HTML Code Generator (Github repo):
+New Approach using HTML Code Generator (Github repo): https://github.com/RedaElmar/ID-Cards-Generator.git
 Docstrings approach for HTML and render the data onto Template and then generate its PDF using PDFGen Library.
 
 14:25

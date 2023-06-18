@@ -1,0 +1,28 @@
+Date: 18th June 2023
+Time: 14:00
+Venue: Online 
+
+KEY POINTS
+
+14:16
+New Approach using HTML Code Generator (Github repo):
+Docstrings approach for HTML and render the data onto Template and then generate its PDF using PDFGen Library.
+
+14:25
+Template Design using Figma (-by Abhishek Rajpoot)
+
+14:30
+CSV File from  Google Drive API
+
+15:15 
+Tested the changes in Result Extractor Project.
+
+15:27
+Rename CSV columns in Result Extractor
+
+15:28
+Have to add the PDF formatting option (old/new) in command line arguments in Result Extractor.
+
+15:30
+Have to add a frontend to the Result Extractor Project.
+
